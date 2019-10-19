@@ -1,0 +1,56 @@
+{
+    "name": "Material",
+    "manifest_version": 2,
+    "version": "1.0.0",
+    "description": "Material Theme for Firefox",
+    "theme": {
+        "colors": {
+            "frame": "#DEE1E6",
+            "frame_inactive": "#E7EAED",
+
+            "tab_text": "#202020",
+            "tab_background_text": "#202020",
+            "tab_background_separator": "#8B8E92",
+            "tab_selected": "#FFFFFF",
+            "tab_line": "#FFFFFF",
+            "tab_loading": "#5F6368",
+
+            "icons": "#5F6368",
+            "icons_attention": "#000000",
+
+            "toolbar": "#FFFFFF",
+            "toolbar_top_separator": "#DEE1E6",
+            "toolbar_bottom_separator": "#B6B4B6",
+            "toolbar_vertical_separator": "#CED0D1",
+
+            "toolbar_field": "#F1F3F4",
+            "toolbar_field_focus": "#FFFFFF",
+            "toolbar_field_text": "#202020",
+            "toolbar_field_border": "#F1F3F4",
+            "toolbar_field_border_focus": "#B3CEFB",
+            "toolbar_field_separator": "#CED0D1",
+            "toolbar_field_highlight": "#CAE2F9",
+            "toolbar_field_highlight_text": "#202020",
+
+            "popup": "#FFFFFF",
+            "popup_text": "#202020",
+            "popup_border": "#BABABA",
+            "popup_highlight": "#F2F2F2",
+            "popup_highlight_text": "#202020",
+
+            "button_background_hover": "#EEEEEE",
+            "button_background_active": "#E2E2E2",
+
+            "bookmark_text": "#404040",
+
+            "sidebar": "#FFFFFF",
+            "sidebar_border": "#D8DADC",
+            "sidebar_highlight": "#E8F0FE",
+            "sidebar_text": "#202020",
+            "sidebar_highlight_text": "#202020",
+
+            "ntp_text": "#202020",
+            "ntp_background": "#F7F7F7"
+        }
+    }
+}
